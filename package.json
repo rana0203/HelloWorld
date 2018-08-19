@@ -10,5 +10,9 @@
   "license": "UNLICENSED",
   "dependencies": {
     "redis": "^2.8.0"
-  }
+  },
+  "engines": {
+    "node": "^6.14",
+    "npm": "^3.10"
+  }  
 }
